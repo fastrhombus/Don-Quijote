@@ -1,2 +1,2 @@
 # Don-Quijote
-https://github.com/fastrhombus/Don-Quijote.git
+https://fastrhombus.github.io/Don-Quijote/
